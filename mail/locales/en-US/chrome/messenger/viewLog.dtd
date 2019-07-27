@@ -10,3 +10,5 @@
 <!ENTITY enableLog.accesskey "E">
 <!ENTITY closeLog.label "Close">
 <!ENTITY closeLog.accesskey "o">
+<!ENTITY logMessageColumn.label "Log message">
+<!ENTITY logDateColumn.label "Log date/time">
